@@ -26,8 +26,8 @@ body {
     flex-direction: column;
 }
 
-.max-width-450 {
-    max-width: 450px; /* Set the desired max width */
+.max-width-580 {
+    max-width: 580px; /* Set the desired max width */
     margin: 0 auto; /* Center the element horizontally */
   }
 
