@@ -26,6 +26,11 @@ body {
     flex-direction: column;
 }
 
+.max-width-450 {
+    max-width: 450px; /* Set the desired max width */
+    margin: 0 auto; /* Center the element horizontally */
+  }
+
 
 @media (max-width: 767.98px) {
     .mx-mobile-3 {
